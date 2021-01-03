@@ -4,20 +4,17 @@
   <node name="Technical Support Fundamentals" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1609680495" ts_lastsave="1609680939">
     <node name="Intro to IT" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1609680939" ts_lastsave="1609680997"/>
     <node name="Hardware" unique_id="4" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1609680997" ts_lastsave="1609681048"/>
-    <node name="Operating System" unique_id="6" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1609681048" ts_lastsave="1609687306">
+    <node name="Operating System" unique_id="6" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1609681048" ts_lastsave="1609687242">
       <rich_text>O
 
-- Remote Connection - It allows you to access  like shared file servers and network devices as if you are connected to your work network.
+- Remote Connection - It allows you to access resources like shared file servers and network devices as if you are connected to your work network.
 
    → SSH 
       ⇒ Secure Shell, is a secure remote connection protocol. Uses port 22. Uses authentication and encryption to protect communication between ssh server and client.
       ⇒ To use SSH, you need to have an SSH client installed on the computer you're connecting from along with an SSH server on the computer you're trying to connect to.
       ⇒ It constantly checks if a client is trying to connect to it, then will authenticate its requests
       ⇒ On Linux, OpenSSH is the popular program to use. Windows normally relys on PuTTy
-   → VPN - Secure Remote Connection service for clients connected to the private network over the Internet.
-      ⇒ It allows you to connect to a private network like your work network over the Internet.
-      ⇒ SSH with a sophisticated setup
-      ⇒ allows you to access resources like shared file servers and network devices as if you are connected to your work network.
+   → VPN - Secure Remote Connection service for clients connected to the priva.
    → Remote Connection on Windows - Uses PuTTy to securely connect 
    → </rich_text>
     </node>
