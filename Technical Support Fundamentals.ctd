@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="Technical Support Fundamentals" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1609680495" ts_lastsave="1609680939">
+    <node name="Intro to IT" unique_id="2" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1609680939" ts_lastsave="1609680997"/>
+    <node name="Hardware" unique_id="4" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1609680997" ts_lastsave="1609681048"/>
+    <node name="Operating System" unique_id="6" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1609681048" ts_lastsave="1609681048"/>
+  </node>
+</cherrytree>
